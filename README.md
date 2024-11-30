@@ -4,10 +4,10 @@ Blogify is a web application that allows users to create, read, update, and dele
 
 This application allows users to:
 
-  Create an account and log in
-  Write new blog posts
-  Edit or delete existing posts
-  View and comment on blog posts from other users
+      Create an account and log in,
+      Write new blog posts,
+      Edit or delete existing posts,
+      View and comment on blog posts from other users,
 # Features
   1.User Authentication: Users can register, log in, and log out to manage their posts.
   2.CRUD Operations: Allows users to create, read, update, and delete their blog posts.
